@@ -28,9 +28,6 @@ public class ProductDao {
         if(color != null) {
 
             qColor = " color = " + "'" + color + "'";
-            if(color.equals("Den")) {
-                qColor = "color = 'Đen'";
-            }
             System.out.println(qColor);
         }
         if(price != null) {

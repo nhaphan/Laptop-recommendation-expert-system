@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e03b77f8-712c-40d4-a6f6-bf1e54b04579" name="Default" comment="" />
+    <list default="true" id="e03b77f8-712c-40d4-a6f6-bf1e54b04579" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/models/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/dao/ProductDao.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,8 +34,8 @@
       <file leaf-file-name="ProductDao.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/models/dao/ProductDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="66" column="13" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+            <state relative-caret-position="290">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#listProducts#0;class#ProductDao#0" />
@@ -78,6 +80,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -115,6 +120,7 @@
     <option name="width" value="656" />
     <option name="height" value="770" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -390,15 +396,16 @@
       <workItem from="1539842828511" duration="3986000" />
       <workItem from="1539847238754" duration="2548000" />
       <workItem from="1539943111712" duration="1955000" />
-      <workItem from="1539953825650" duration="4853000" />
+      <workItem from="1539953825650" duration="5075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24930000" />
+    <option name="totallyTimeSpent" value="25152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-2" width="1311" height="770" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -418,8 +425,8 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.15649453" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.15698586" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988345" visible="true" weight="0.18735178" />
       <window_info id="Web" order="2" sideWeight="0.5011655" side_tool="true" weight="0.24980237" />
@@ -715,8 +722,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/models/dao/ProductDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="66" column="13" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        <state relative-caret-position="290">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#listProducts#0;class#ProductDao#0" />
